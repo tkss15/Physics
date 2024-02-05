@@ -1,4 +1,4 @@
-# Three.js Journey
+# Physics
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +14,9 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Explanation
+In this repository, I plan to upload physics questions visualized using Three.js.
+## Thanks
+solarsystemscope for earth textures
+and marcianozx for the 3d model
